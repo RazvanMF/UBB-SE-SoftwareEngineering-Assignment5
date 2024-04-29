@@ -1,0 +1,23 @@
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.AssemblyInfoInputs.cache
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.AssemblyInfo.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.csproj.CoreCompileInputs.cache
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.sourcelink.json
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Common\bin\Debug\net8.0\NamespaceGPT.Common.deps.json
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Common\bin\Debug\net8.0\NamespaceGPT.Common.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Common\bin\Debug\net8.0\NamespaceGPT.Common.pdb
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\refint\NamespaceGPT.Common.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.pdb
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\ref\NamespaceGPT.Common.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\bin\Debug\net8.0\NamespaceGPT.Common.deps.json
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\bin\Debug\net8.0\NamespaceGPT.Common.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\bin\Debug\net8.0\NamespaceGPT.Common.pdb
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.AssemblyInfoInputs.cache
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.AssemblyInfo.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.csproj.CoreCompileInputs.cache
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\refint\NamespaceGPT.Common.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.pdb
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\ref\NamespaceGPT.Common.dll

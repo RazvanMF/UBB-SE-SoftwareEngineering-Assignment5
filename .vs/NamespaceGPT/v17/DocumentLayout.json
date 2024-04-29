@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB269796-1B81-4539-8E45-61FFE03933F8}|NamespaceGPT.Tests\\NamespaceGPT.Tests.csproj|c:\\razvan\\projects\\semester iv\\software engineering\\namespacegpt\\namespacegpt.tests\\repositories\\productrepositorycompletionunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB269796-1B81-4539-8E45-61FFE03933F8}|NamespaceGPT.Tests\\NamespaceGPT.Tests.csproj|solutionrelative:namespacegpt.tests\\repositories\\productrepositorycompletionunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB269796-1B81-4539-8E45-61FFE03933F8}|NamespaceGPT.Tests\\NamespaceGPT.Tests.csproj|c:\\razvan\\projects\\semester iv\\software engineering\\namespacegpt\\namespacegpt.tests\\controllers\\productcontrollerunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB269796-1B81-4539-8E45-61FFE03933F8}|NamespaceGPT.Tests\\NamespaceGPT.Tests.csproj|solutionrelative:namespacegpt.tests\\controllers\\productcontrollerunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36109174-6EBB-4130-9EFB-AC4410317027}|NamespaceGPT.Data\\NamespaceGPT.Data.csproj|c:\\razvan\\projects\\semester iv\\software engineering\\namespacegpt\\namespacegpt.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36109174-6EBB-4130-9EFB-AC4410317027}|NamespaceGPT.Data\\NamespaceGPT.Data.csproj|solutionrelative:namespacegpt.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36109174-6EBB-4130-9EFB-AC4410317027}|NamespaceGPT.Data\\NamespaceGPT.Data.csproj|c:\\razvan\\projects\\semester iv\\software engineering\\namespacegpt\\namespacegpt.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36109174-6EBB-4130-9EFB-AC4410317027}|NamespaceGPT.Data\\NamespaceGPT.Data.csproj|solutionrelative:namespacegpt.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB269796-1B81-4539-8E45-61FFE03933F8}|NamespaceGPT.Tests\\NamespaceGPT.Tests.csproj|c:\\razvan\\projects\\semester iv\\software engineering\\namespacegpt\\namespacegpt.tests\\controllers\\usercontrollerunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB269796-1B81-4539-8E45-61FFE03933F8}|NamespaceGPT.Tests\\NamespaceGPT.Tests.csproj|solutionrelative:namespacegpt.tests\\controllers\\usercontrollerunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepositoryCompletionUnitTest.cs",
+              "DocumentMoniker": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Tests\\Repositories\\ProductRepositoryCompletionUnitTest.cs",
+              "RelativeDocumentMoniker": "NamespaceGPT.Tests\\Repositories\\ProductRepositoryCompletionUnitTest.cs",
+              "ToolTip": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Tests\\Repositories\\ProductRepositoryCompletionUnitTest.cs",
+              "RelativeToolTip": "NamespaceGPT.Tests\\Repositories\\ProductRepositoryCompletionUnitTest.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAADgvykAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:58:48.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Data\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "NamespaceGPT.Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Data\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "NamespaceGPT.Data\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:36:29.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "NamespaceGPT.Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "NamespaceGPT.Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:15:58.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductControllerUnitTests.cs",
+              "DocumentMoniker": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Tests\\Controllers\\ProductControllerUnitTests.cs",
+              "RelativeDocumentMoniker": "NamespaceGPT.Tests\\Controllers\\ProductControllerUnitTests.cs",
+              "ToolTip": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Tests\\Controllers\\ProductControllerUnitTests.cs",
+              "RelativeToolTip": "NamespaceGPT.Tests\\Controllers\\ProductControllerUnitTests.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCgAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:08:48.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControllerUnitTests.cs",
+              "DocumentMoniker": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Tests\\Controllers\\UserControllerUnitTests.cs",
+              "RelativeDocumentMoniker": "NamespaceGPT.Tests\\Controllers\\UserControllerUnitTests.cs",
+              "ToolTip": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Tests\\Controllers\\UserControllerUnitTests.cs",
+              "RelativeToolTip": "NamespaceGPT.Tests\\Controllers\\UserControllerUnitTests.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAuwL8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:16:37.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

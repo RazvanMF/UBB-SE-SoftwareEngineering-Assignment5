@@ -1,0 +1,33 @@
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\bin\Debug\net8.0\NamespaceGPT.Data.deps.json
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\bin\Debug\net8.0\NamespaceGPT.Data.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\bin\Debug\net8.0\NamespaceGPT.Data.pdb
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.csproj.AssemblyReference.cache
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.AssemblyInfoInputs.cache
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.AssemblyInfo.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.csproj.CoreCompileInputs.cache
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.sourcelink.json
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\refint\NamespaceGPT.Data.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.pdb
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\ref\NamespaceGPT.Data.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\bin\Debug\net8.0\NamespaceGPT.Common.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\bin\Debug\net8.0\NamespaceGPT.Common.pdb
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\Namespac.8803256D.Up2Date
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.Data\bin\Debug\net8.0\appsettings.json
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\bin\Debug\net8.0\appsettings.json
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\bin\Debug\net8.0\NamespaceGPT.Data.deps.json
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\bin\Debug\net8.0\NamespaceGPT.Data.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\bin\Debug\net8.0\NamespaceGPT.Data.pdb
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\bin\Debug\net8.0\NamespaceGPT.Common.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\bin\Debug\net8.0\NamespaceGPT.Common.pdb
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.csproj.AssemblyReference.cache
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.AssemblyInfoInputs.cache
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.AssemblyInfo.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.csproj.CoreCompileInputs.cache
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\Namespac.8803256D.Up2Date
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\refint\NamespaceGPT.Data.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.pdb
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\ref\NamespaceGPT.Data.dll

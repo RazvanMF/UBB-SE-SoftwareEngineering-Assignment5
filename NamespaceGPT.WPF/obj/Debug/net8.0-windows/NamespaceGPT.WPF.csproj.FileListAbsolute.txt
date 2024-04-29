@@ -1,0 +1,273 @@
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.WPF.exe
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.WPF.deps.json
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.WPF.runtimeconfig.json
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.WPF.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.WPF.pdb
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.Api.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.Business.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.Data.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.Api.pdb
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.Business.pdb
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.Data.pdb
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.csproj.AssemblyReference.cache
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\App.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF_MarkupCompile.cache
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF_MarkupCompile.lref
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.g.resources
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.AssemblyInfoInputs.cache
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.AssemblyInfo.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.csproj.CoreCompileInputs.cache
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.sourcelink.json
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Namespac.DCF5E11E.Up2Date
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\refint\NamespaceGPT.WPF.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.pdb
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.genruntimeconfig.cache
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ref\NamespaceGPT.WPF.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\AdminDashboard.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Authentication\Login.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Authentication\Register.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\AdminDashboard.baml
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Authentication\Login.baml
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Authentication\Register.baml
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\ListingsView.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\MarketplacesView.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\ProductsView.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\UsersView.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\ListingsView.baml
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\MarketplacesView.baml
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\ProductsView.baml
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\UsersView.baml
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.Common.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.Common.pdb
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\appsettings.json
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\ReviewsView.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\ReviewsView.baml
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\HomePage.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\MainHomeWindow.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\HomePage.baml
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\MainHomeWindow.baml
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\CategoriesDisplayPage.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\CategoriesDisplayPage.baml
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\CompareProductsView.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\FavouriteProductsView.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\ProductPage.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\ProductReviewsPage.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\ProductsByCategoryPage.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\ProductsByNameSearchPage.g.cs
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\CompareProductsView.baml
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\FavouriteProductsView.baml
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\ProductPage.baml
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\ProductReviewsPage.baml
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\ProductsByCategoryPage.baml
+D:\Faculty Materials\Second Year\Second Semester\SE\NamespaceGPT\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\ProductsByNameSearchPage.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.WPF.exe
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\appsettings.json
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.WPF.deps.json
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.WPF.runtimeconfig.json
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.WPF.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.WPF.pdb
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.Api.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.Business.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.Common.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.Data.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.Api.pdb
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.Business.pdb
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.Data.pdb
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\bin\Debug\net8.0-windows\NamespaceGPT.Common.pdb
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.csproj.AssemblyReference.cache
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\AdminDashboard.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\ListingsView.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\MarketplacesView.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\ProductsView.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\ReviewsView.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\UsersView.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Authentication\Login.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Authentication\Register.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\CategoriesDisplayPage.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\HomePage.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\MainHomeWindow.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\CompareProductsView.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\FavouriteProductsView.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\ProductPage.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\ProductReviewsPage.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\ProductsByCategoryPage.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\ProductsByNameSearchPage.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF_MarkupCompile.cache
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF_MarkupCompile.lref
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\AdminDashboard.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\ListingsView.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\MarketplacesView.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\ProductsView.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\ReviewsView.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Admin\UsersView.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Authentication\Login.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Authentication\Register.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\CategoriesDisplayPage.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\HomePage.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\MainHomeWindow.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\CompareProductsView.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\FavouriteProductsView.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\ProductPage.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\ProductReviewsPage.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\ProductsByCategoryPage.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ProductPages\ProductsByNameSearchPage.baml
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.g.resources
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.AssemblyInfoInputs.cache
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.AssemblyInfo.cs
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.csproj.CoreCompileInputs.cache
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\Namespac.DCF5E11E.Up2Date
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\refint\NamespaceGPT.WPF.dll
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.pdb
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\NamespaceGPT.WPF.genruntimeconfig.cache
+C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\ref\NamespaceGPT.WPF.dll
