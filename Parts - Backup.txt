@@ -1,0 +1,7 @@
+@NinthBurn : alert controller, basic data validation module
+@NikAlien : favorite product controller, configuration parser module
+@Diana : listing controller, custom logging module
+@bqkitcat : review controller, encryption module
+@Eridan : sale controller, sorting module
+@Mikha : marketplace controller, user activity controller
+@RazvanMF : user controller, product controller
