@@ -29,6 +29,30 @@ namespace NamespaceGPT.Data.Models
             }
         }
 
+        public bool Equals(BackInStockAlert other)
+        {
+            if (other == null)
+            {
+                return false;
+            }
+
+            return this.Id == other.Id &&
+                this.UserId == other.UserId &&
+                this.ProductId == other.ProductId &&
+                this.MarketplaceId == other.MarketplaceId;
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (obj == null)
+            {
+                return false;
+            }
+
+            BackInStockAlert other = obj as BackInStockAlert;
+            return Equals(other);
+        }
+
         public void Notify()
         {
             throw new NotImplementedException();

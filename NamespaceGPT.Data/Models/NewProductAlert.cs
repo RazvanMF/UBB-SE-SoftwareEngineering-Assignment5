@@ -20,6 +20,29 @@ namespace NamespaceGPT.Data.Models
             }
         }
 
+        public bool Equals(NewProductAlert other)
+        {
+            if (other == null)
+            {
+                return false;
+            }
+
+            return this.Id == other.Id &&
+                this.UserId == other.UserId &&
+                this.ProductId == other.ProductId;
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (obj == null)
+            {
+                return false;
+            }
+
+            NewProductAlert other = obj as NewProductAlert;
+            return Equals(other);
+        }
+
         public void Notify()
         {
             throw new NotImplementedException();

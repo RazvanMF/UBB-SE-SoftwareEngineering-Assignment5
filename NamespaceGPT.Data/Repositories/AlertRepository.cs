@@ -128,6 +128,8 @@ namespace NamespaceGPT.Data.Repositories
                 alerts.Add(alert);
             }
 
+            reader.Close();
+
             // Get NewProductAlerts
             command = connection.CreateCommand();
             command.CommandText = "SELECT * FROM NewProductAlerts";
@@ -146,6 +148,8 @@ namespace NamespaceGPT.Data.Repositories
                 alerts.Add(alert);
             }
 
+            reader.Close();
+
             // Get PriceDropAlerts
             command = connection.CreateCommand();
             command.CommandText = "SELECT * FROM PriceDropAlerts";
@@ -158,12 +162,14 @@ namespace NamespaceGPT.Data.Repositories
                     Id = reader.GetInt32(0),
                     UserId = reader.GetInt32(1),
                     ProductId = reader.GetInt32(2),
-                    OldPrice = reader.GetInt32(3),
-                    NewPrice = reader.GetInt32(4),
+                    OldPrice = (float)decimal.ToDouble(reader.GetDecimal(3)),
+                    NewPrice = (float)decimal.ToDouble(reader.GetDecimal(4)),
                 };
 
                 alerts.Add(alert);
             }
+
+            reader.Close();
 
             return alerts;
         }
@@ -195,11 +201,14 @@ namespace NamespaceGPT.Data.Repositories
                 alerts.Add(alert);
             }
 
+            reader.Close();
+
             // Get NewProductAlerts
             command = connection.CreateCommand();
             command.CommandText = "SELECT * FROM NewProductAlerts WHERE ProductId = @productId";
-            reader = command.ExecuteReader();
             command.Parameters.AddWithValue("@productId", productId);
+
+            reader = command.ExecuteReader();
 
             while (reader.Read())
             {
@@ -213,11 +222,14 @@ namespace NamespaceGPT.Data.Repositories
                 alerts.Add(alert);
             }
 
+            reader.Close();
+
             // Get PriceDropAlerts
             command = connection.CreateCommand();
             command.CommandText = "SELECT * FROM PriceDropAlerts WHERE ProductId = @productId";
-            reader = command.ExecuteReader();
             command.Parameters.AddWithValue("@productId", productId);
+
+            reader = command.ExecuteReader();
 
             while (reader.Read())
             {
@@ -226,12 +238,14 @@ namespace NamespaceGPT.Data.Repositories
                     Id = reader.GetInt32(0),
                     UserId = reader.GetInt32(1),
                     ProductId = reader.GetInt32(2),
-                    OldPrice = reader.GetInt32(3),
-                    NewPrice = reader.GetInt32(4),
+                    OldPrice = (float)decimal.ToDouble(reader.GetDecimal(3)),
+                    NewPrice = (float)decimal.ToDouble(reader.GetDecimal(4)),
                 };
 
                 alerts.Add(alert);
             }
+
+            reader.Close();
 
             return alerts;
         }
@@ -263,11 +277,14 @@ namespace NamespaceGPT.Data.Repositories
                 alerts.Add(alert);
             }
 
+            reader.Close();
+
             // Get NewProductAlerts
             command = connection.CreateCommand();
             command.CommandText = "SELECT * FROM NewProductAlerts WHERE UserId = @userId";
-            reader = command.ExecuteReader();
             command.Parameters.AddWithValue("@UserId", userId);
+
+            reader = command.ExecuteReader();
 
             while (reader.Read())
             {
@@ -281,11 +298,14 @@ namespace NamespaceGPT.Data.Repositories
                 alerts.Add(alert);
             }
 
+            reader.Close();
+
             // Get PriceDropAlerts
             command = connection.CreateCommand();
             command.CommandText = "SELECT * FROM PriceDropAlerts WHERE UserId = @userId";
-            reader = command.ExecuteReader();
             command.Parameters.AddWithValue("@UserId", userId);
+
+            reader = command.ExecuteReader();
 
             while (reader.Read())
             {
@@ -294,12 +314,14 @@ namespace NamespaceGPT.Data.Repositories
                     Id = reader.GetInt32(0),
                     UserId = reader.GetInt32(1),
                     ProductId = reader.GetInt32(2),
-                    OldPrice = reader.GetInt32(3),
-                    NewPrice = reader.GetInt32(4),
+                    OldPrice = (float)decimal.ToDouble(reader.GetDecimal(3)),
+                    NewPrice = (float)decimal.ToDouble(reader.GetDecimal(4)),
                 };
 
                 alerts.Add(alert);
             }
+
+            reader.Close();
 
             return alerts;
         }

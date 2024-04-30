@@ -30,6 +30,30 @@ namespace NamespaceGPT.Data.Models
             }
         }
 
+        public bool Equals(PriceDropAlert other)
+        {
+            if (other == null)
+            {
+                return false;
+            }
+
+            return this.Id == other.Id &&
+                this.UserId == other.UserId &&
+                this.ProductId == other.ProductId &&
+                this.OldPrice == other.OldPrice &&
+                this.NewPrice == other.NewPrice;
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (obj == null)
+            {
+                return false;
+            }
+
+            PriceDropAlert other = obj as PriceDropAlert;
+            return Equals(other);
+        }
         public void Notify()
         {
             throw new NotImplementedException();

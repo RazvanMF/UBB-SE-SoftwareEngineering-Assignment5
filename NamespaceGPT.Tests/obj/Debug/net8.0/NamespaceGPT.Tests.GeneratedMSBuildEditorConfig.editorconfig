@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NamespaceGPT.Tests
-build_property.ProjectDir = C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Tests\
+build_property.ProjectDir = C:\Users\g15\Desktop\School\sem4\ISS\Lab5\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
