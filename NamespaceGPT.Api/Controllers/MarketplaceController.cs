@@ -12,12 +12,12 @@ namespace NamespaceGPT.Api.Controllers
             this.marketplaceService = marketplaceService ?? throw new ArgumentNullException(nameof(marketplaceService));
         }
 
-        public int Addmarketplace(Marketplace marketplace)
+        public int AddMarketplace(Marketplace marketplace)
         {
             return marketplaceService.AddMarketplace(marketplace);
         }
 
-        public bool Deletemarketplace(int id)
+        public bool DeleteMarketplace(int id)
         {
             return marketplaceService.DeleteMarketplace(id);
         }
@@ -27,12 +27,12 @@ namespace NamespaceGPT.Api.Controllers
             return marketplaceService.GetAllMarketplaces();
         }
 
-        public Marketplace? Getmarketplace(int id)
+        public Marketplace? GetMarketplace(int id)
         {
             return marketplaceService.GetMarketplace(id);
         }
 
-        public bool Updatemarketplace(int id, Marketplace marketplace)
+        public bool UpdateMarketplace(int id, Marketplace marketplace)
         {
             return marketplaceService.UpdateMarketplace(id, marketplace);
         }

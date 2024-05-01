@@ -39,3 +39,24 @@ C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Ap
 C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Api\obj\Debug\net8.0\refint\NamespaceGPT.Api.dll
 C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Api\obj\Debug\net8.0\NamespaceGPT.Api.pdb
 C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Api\obj\Debug\net8.0\ref\NamespaceGPT.Api.dll
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\bin\Debug\net8.0\NamespaceGPT.Api.deps.json
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\bin\Debug\net8.0\NamespaceGPT.Api.dll
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\bin\Debug\net8.0\NamespaceGPT.Api.pdb
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\bin\Debug\net8.0\NamespaceGPT.Business.dll
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\bin\Debug\net8.0\NamespaceGPT.Common.dll
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\bin\Debug\net8.0\NamespaceGPT.Data.dll
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\bin\Debug\net8.0\NamespaceGPT.Business.pdb
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\bin\Debug\net8.0\NamespaceGPT.Common.pdb
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\bin\Debug\net8.0\NamespaceGPT.Data.pdb
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\obj\Debug\net8.0\NamespaceGPT.Api.csproj.AssemblyReference.cache
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\obj\Debug\net8.0\NamespaceGPT.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\obj\Debug\net8.0\NamespaceGPT.Api.AssemblyInfoInputs.cache
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\obj\Debug\net8.0\NamespaceGPT.Api.AssemblyInfo.cs
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\obj\Debug\net8.0\NamespaceGPT.Api.csproj.CoreCompileInputs.cache
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\obj\Debug\net8.0\NamespaceGPT.Api.sourcelink.json
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\obj\Debug\net8.0\Namespac.C278547E.Up2Date
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\obj\Debug\net8.0\NamespaceGPT.Api.dll
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\obj\Debug\net8.0\refint\NamespaceGPT.Api.dll
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\obj\Debug\net8.0\NamespaceGPT.Api.pdb
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\obj\Debug\net8.0\ref\NamespaceGPT.Api.dll

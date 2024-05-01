@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Api\\NamespaceGPT.Api.csproj": {}
+    "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Api\\NamespaceGPT.Api.csproj": {}
   },
   "projects": {
-    "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Api\\NamespaceGPT.Api.csproj": {
+    "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Api\\NamespaceGPT.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Api\\NamespaceGPT.Api.csproj",
+        "projectUniqueName": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Api\\NamespaceGPT.Api.csproj",
         "projectName": "NamespaceGPT.Api",
-        "projectPath": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Api\\NamespaceGPT.Api.csproj",
-        "packagesPath": "C:\\Users\\Razvan\\.nuget\\packages\\",
-        "outputPath": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Api\\obj\\",
+        "projectPath": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Api\\NamespaceGPT.Api.csproj",
+        "packagesPath": "C:\\Users\\i9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Razvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\i9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,20 +26,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Business\\NamespaceGPT.Business.csproj": {
-                "projectPath": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Business\\NamespaceGPT.Business.csproj"
+              "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Business\\NamespaceGPT.Business.csproj": {
+                "projectPath": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Business\\NamespaceGPT.Business.csproj"
               },
-              "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj": {
-                "projectPath": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj"
+              "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj": {
+                "projectPath": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj"
               },
-              "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Data\\NamespaceGPT.Data.csproj": {
-                "projectPath": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Data\\NamespaceGPT.Data.csproj"
+              "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Data\\NamespaceGPT.Data.csproj": {
+                "projectPath": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Data\\NamespaceGPT.Data.csproj"
               }
             }
           }
@@ -82,24 +83,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Business\\NamespaceGPT.Business.csproj": {
+    "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Business\\NamespaceGPT.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Business\\NamespaceGPT.Business.csproj",
+        "projectUniqueName": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Business\\NamespaceGPT.Business.csproj",
         "projectName": "NamespaceGPT.Business",
-        "projectPath": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Business\\NamespaceGPT.Business.csproj",
-        "packagesPath": "C:\\Users\\Razvan\\.nuget\\packages\\",
-        "outputPath": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Business\\obj\\",
+        "projectPath": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Business\\NamespaceGPT.Business.csproj",
+        "packagesPath": "C:\\Users\\i9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Razvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\i9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -108,17 +109,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj": {
-                "projectPath": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj"
+              "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj": {
+                "projectPath": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj"
               },
-              "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Data\\NamespaceGPT.Data.csproj": {
-                "projectPath": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Data\\NamespaceGPT.Data.csproj"
+              "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Data\\NamespaceGPT.Data.csproj": {
+                "projectPath": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Data\\NamespaceGPT.Data.csproj"
               }
             }
           }
@@ -161,24 +163,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj": {
+    "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj",
+        "projectUniqueName": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj",
         "projectName": "NamespaceGPT.Common",
-        "projectPath": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj",
-        "packagesPath": "C:\\Users\\Razvan\\.nuget\\packages\\",
-        "outputPath": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Common\\obj\\",
+        "projectPath": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj",
+        "packagesPath": "C:\\Users\\i9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Razvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\i9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -187,6 +189,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -233,24 +236,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Data\\NamespaceGPT.Data.csproj": {
+    "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Data\\NamespaceGPT.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Data\\NamespaceGPT.Data.csproj",
+        "projectUniqueName": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Data\\NamespaceGPT.Data.csproj",
         "projectName": "NamespaceGPT.Data",
-        "projectPath": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Data\\NamespaceGPT.Data.csproj",
-        "packagesPath": "C:\\Users\\Razvan\\.nuget\\packages\\",
-        "outputPath": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Data\\obj\\",
+        "projectPath": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Data\\NamespaceGPT.Data.csproj",
+        "packagesPath": "C:\\Users\\i9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Razvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\i9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -259,14 +262,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj": {
-                "projectPath": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj"
+              "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj": {
+                "projectPath": "C:\\Users\\i9\\OneDrive\\Desktop\\Facultate\\Anul 2\\Sem 4\\ISS\\Outsider stuff\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj"
               }
             }
           }
@@ -325,7 +329,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

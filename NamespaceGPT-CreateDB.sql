@@ -112,3 +112,13 @@ SELECT * FROM Product
 update Product SET imageURL='https://m.media-amazon.com/images/I/71yGtauB-AL._AC_SL1500_.jpg' WHERE id=8
 update Product SET imageURL='https://images.theconversation.com/files/265294/original/file-20190322-36283-1me4pb6.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C3772%2C3342&q=45&auto=format&w=926&fit=clip' WHERE id=7
 update Product SET imageURL='https://www.cnet.com/a/img/resize/887997d313cda859afd73f96615c96a51338a5ca/hub/2020/10/18/bdb7ea97-cb99-48d8-a69c-38d26109f33b/05-iphone-12-pro-2020.jpg?auto=webp&fit=crop&height=900&width=1200' WHERE id=6
+
+
+
+
+--Added table for user activity
+create table UserActivity(
+	id int primary key identity(0,1),
+	userID int,
+	actionType varchar(100)
+)

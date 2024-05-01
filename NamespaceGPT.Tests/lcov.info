@@ -1,4 +1,4 @@
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Api\Controllers\AlertController.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\Controllers\AlertController.cs
 FN:15,System.Int32 NamespaceGPT.Api.Controllers.AlertController::AddAlert(NamespaceGPT.Data.Models.IAlert)
 FNDA:0,System.Int32 NamespaceGPT.Api.Controllers.AlertController::AddAlert(NamespaceGPT.Data.Models.IAlert)
 DA:16,0
@@ -49,7 +49,7 @@ BRH:0
 FNF:8
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Api\Controllers\Controller.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\Controllers\Controller.cs
 FN:8,NamespaceGPT.Api.Controllers.UserController NamespaceGPT.Api.Controllers.Controller::get_UserController()
 FNDA:0,NamespaceGPT.Api.Controllers.UserController NamespaceGPT.Api.Controllers.Controller::get_UserController()
 DA:9,0
@@ -95,7 +95,7 @@ BRH:0
 FNF:9
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Api\Controllers\FavouriteProductController.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\Controllers\FavouriteProductController.cs
 FN:16,System.Int32 NamespaceGPT.Api.Controllers.FavouriteProductController::AddFavouriteProduct(NamespaceGPT.Data.Models.FavouriteProduct)
 FNDA:0,System.Int32 NamespaceGPT.Api.Controllers.FavouriteProductController::AddFavouriteProduct(NamespaceGPT.Data.Models.FavouriteProduct)
 DA:17,0
@@ -139,7 +139,7 @@ BRH:0
 FNF:7
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Api\Controllers\ListingController.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\Controllers\ListingController.cs
 FN:15,System.Int32 NamespaceGPT.Api.Controllers.ListingController::Addlisting(NamespaceGPT.Data.Models.Listing)
 FNDA:0,System.Int32 NamespaceGPT.Api.Controllers.ListingController::Addlisting(NamespaceGPT.Data.Models.Listing)
 DA:16,0
@@ -185,48 +185,48 @@ BRH:0
 FNF:7
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Api\Controllers\MarketplaceController.cs
-FN:15,System.Int32 NamespaceGPT.Api.Controllers.MarketplaceController::Addmarketplace(NamespaceGPT.Data.Models.Marketplace)
-FNDA:0,System.Int32 NamespaceGPT.Api.Controllers.MarketplaceController::Addmarketplace(NamespaceGPT.Data.Models.Marketplace)
-DA:16,0
-DA:17,0
-DA:18,0
-FN:20,System.Boolean NamespaceGPT.Api.Controllers.MarketplaceController::Deletemarketplace(System.Int32)
-FNDA:0,System.Boolean NamespaceGPT.Api.Controllers.MarketplaceController::Deletemarketplace(System.Int32)
-DA:21,0
-DA:22,0
-DA:23,0
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\Controllers\MarketplaceController.cs
+FN:15,System.Int32 NamespaceGPT.Api.Controllers.MarketplaceController::AddMarketplace(NamespaceGPT.Data.Models.Marketplace)
+FNDA:1,System.Int32 NamespaceGPT.Api.Controllers.MarketplaceController::AddMarketplace(NamespaceGPT.Data.Models.Marketplace)
+DA:16,1
+DA:17,1
+DA:18,1
+FN:20,System.Boolean NamespaceGPT.Api.Controllers.MarketplaceController::DeleteMarketplace(System.Int32)
+FNDA:2,System.Boolean NamespaceGPT.Api.Controllers.MarketplaceController::DeleteMarketplace(System.Int32)
+DA:21,2
+DA:22,2
+DA:23,2
 FN:25,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.Marketplace> NamespaceGPT.Api.Controllers.MarketplaceController::GetAllMarketplaces()
-FNDA:0,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.Marketplace> NamespaceGPT.Api.Controllers.MarketplaceController::GetAllMarketplaces()
-DA:26,0
-DA:27,0
-DA:28,0
-FN:30,NamespaceGPT.Data.Models.Marketplace NamespaceGPT.Api.Controllers.MarketplaceController::Getmarketplace(System.Int32)
-FNDA:0,NamespaceGPT.Data.Models.Marketplace NamespaceGPT.Api.Controllers.MarketplaceController::Getmarketplace(System.Int32)
-DA:31,0
-DA:32,0
-DA:33,0
-FN:35,System.Boolean NamespaceGPT.Api.Controllers.MarketplaceController::Updatemarketplace(System.Int32,NamespaceGPT.Data.Models.Marketplace)
-FNDA:0,System.Boolean NamespaceGPT.Api.Controllers.MarketplaceController::Updatemarketplace(System.Int32,NamespaceGPT.Data.Models.Marketplace)
-DA:36,0
-DA:37,0
-DA:38,0
+FNDA:1,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.Marketplace> NamespaceGPT.Api.Controllers.MarketplaceController::GetAllMarketplaces()
+DA:26,1
+DA:27,1
+DA:28,1
+FN:30,NamespaceGPT.Data.Models.Marketplace NamespaceGPT.Api.Controllers.MarketplaceController::GetMarketplace(System.Int32)
+FNDA:5,NamespaceGPT.Data.Models.Marketplace NamespaceGPT.Api.Controllers.MarketplaceController::GetMarketplace(System.Int32)
+DA:31,5
+DA:32,5
+DA:33,5
+FN:35,System.Boolean NamespaceGPT.Api.Controllers.MarketplaceController::UpdateMarketplace(System.Int32,NamespaceGPT.Data.Models.Marketplace)
+FNDA:2,System.Boolean NamespaceGPT.Api.Controllers.MarketplaceController::UpdateMarketplace(System.Int32,NamespaceGPT.Data.Models.Marketplace)
+DA:36,2
+DA:37,2
+DA:38,2
 FN:9,System.Void NamespaceGPT.Api.Controllers.MarketplaceController::.ctor(NamespaceGPT.Business.Services.Interfaces.IMarketplaceService)
-FNDA:0,System.Void NamespaceGPT.Api.Controllers.MarketplaceController::.ctor(NamespaceGPT.Business.Services.Interfaces.IMarketplaceService)
-DA:10,0
-DA:11,0
-DA:12,0
-DA:13,0
+FNDA:8,System.Void NamespaceGPT.Api.Controllers.MarketplaceController::.ctor(NamespaceGPT.Business.Services.Interfaces.IMarketplaceService)
+DA:10,8
+DA:11,8
+DA:12,8
+DA:13,8
 BRDA:12,11,0,0
-BRDA:12,11,1,0
+BRDA:12,11,1,8
 LF:19
-LH:0
+LH:19
 BRF:2
-BRH:0
+BRH:1
 FNF:6
-FNH:0
+FNH:6
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Api\Controllers\ProductController.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\Controllers\ProductController.cs
 FN:15,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.Product> NamespaceGPT.Api.Controllers.ProductController::GetAllProducts()
 FNDA:1,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.Product> NamespaceGPT.Api.Controllers.ProductController::GetAllProducts()
 DA:16,1
@@ -265,7 +265,7 @@ BRH:0
 FNF:6
 FNH:6
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Api\Controllers\ReviewController.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\Controllers\ReviewController.cs
 FN:15,System.Int32 NamespaceGPT.Api.Controllers.ReviewController::AddReview(NamespaceGPT.Data.Models.Review)
 FNDA:0,System.Int32 NamespaceGPT.Api.Controllers.ReviewController::AddReview(NamespaceGPT.Data.Models.Review)
 DA:16,0
@@ -316,7 +316,7 @@ BRH:0
 FNF:8
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Api\Controllers\SaleController.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\Controllers\SaleController.cs
 FN:15,System.Int32 NamespaceGPT.Api.Controllers.SaleController::AddSale(NamespaceGPT.Data.Models.Sale)
 FNDA:0,System.Int32 NamespaceGPT.Api.Controllers.SaleController::AddSale(NamespaceGPT.Data.Models.Sale)
 DA:16,0
@@ -367,48 +367,48 @@ BRH:0
 FNF:8
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Api\Controllers\UserActivityController.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\Controllers\UserActivityController.cs
 FN:15,System.Int32 NamespaceGPT.Api.Controllers.UserActivityController::AddUserActivity(NamespaceGPT.Data.Models.UserActivity)
-FNDA:0,System.Int32 NamespaceGPT.Api.Controllers.UserActivityController::AddUserActivity(NamespaceGPT.Data.Models.UserActivity)
-DA:16,0
-DA:17,0
-DA:18,0
+FNDA:1,System.Int32 NamespaceGPT.Api.Controllers.UserActivityController::AddUserActivity(NamespaceGPT.Data.Models.UserActivity)
+DA:16,1
+DA:17,1
+DA:18,1
 FN:20,System.Boolean NamespaceGPT.Api.Controllers.UserActivityController::DeleteUserActivity(System.Int32)
-FNDA:0,System.Boolean NamespaceGPT.Api.Controllers.UserActivityController::DeleteUserActivity(System.Int32)
-DA:21,0
-DA:22,0
-DA:23,0
+FNDA:2,System.Boolean NamespaceGPT.Api.Controllers.UserActivityController::DeleteUserActivity(System.Int32)
+DA:21,2
+DA:22,2
+DA:23,2
 FN:25,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Api.Controllers.UserActivityController::GetAllUserActivities()
-FNDA:0,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Api.Controllers.UserActivityController::GetAllUserActivities()
-DA:26,0
-DA:27,0
-DA:28,0
+FNDA:1,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Api.Controllers.UserActivityController::GetAllUserActivities()
+DA:26,1
+DA:27,1
+DA:28,1
 FN:30,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Api.Controllers.UserActivityController::GetUserActivitiesOfUser(System.Int32)
-FNDA:0,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Api.Controllers.UserActivityController::GetUserActivitiesOfUser(System.Int32)
-DA:31,0
-DA:32,0
-DA:33,0
+FNDA:5,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Api.Controllers.UserActivityController::GetUserActivitiesOfUser(System.Int32)
+DA:31,5
+DA:32,5
+DA:33,5
 FN:35,System.Boolean NamespaceGPT.Api.Controllers.UserActivityController::UpdateUserActivity(System.Int32,NamespaceGPT.Data.Models.UserActivity)
-FNDA:0,System.Boolean NamespaceGPT.Api.Controllers.UserActivityController::UpdateUserActivity(System.Int32,NamespaceGPT.Data.Models.UserActivity)
-DA:36,0
-DA:37,0
-DA:38,0
+FNDA:2,System.Boolean NamespaceGPT.Api.Controllers.UserActivityController::UpdateUserActivity(System.Int32,NamespaceGPT.Data.Models.UserActivity)
+DA:36,2
+DA:37,2
+DA:38,2
 FN:9,System.Void NamespaceGPT.Api.Controllers.UserActivityController::.ctor(NamespaceGPT.Business.Services.Interfaces.IUserActivityService)
-FNDA:0,System.Void NamespaceGPT.Api.Controllers.UserActivityController::.ctor(NamespaceGPT.Business.Services.Interfaces.IUserActivityService)
-DA:10,0
-DA:11,0
-DA:12,0
-DA:13,0
+FNDA:8,System.Void NamespaceGPT.Api.Controllers.UserActivityController::.ctor(NamespaceGPT.Business.Services.Interfaces.IUserActivityService)
+DA:10,8
+DA:11,8
+DA:12,8
+DA:13,8
 BRDA:12,11,0,0
-BRDA:12,11,1,0
+BRDA:12,11,1,8
 LF:19
-LH:0
+LH:19
 BRF:2
-BRH:0
+BRH:1
 FNF:6
-FNH:0
+FNH:6
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Api\Controllers\UserController.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Api\Controllers\UserController.cs
 FN:15,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.User> NamespaceGPT.Api.Controllers.UserController::GetAllUsers()
 FNDA:1,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.User> NamespaceGPT.Api.Controllers.UserController::GetAllUsers()
 DA:16,1
@@ -452,7 +452,7 @@ BRH:0
 FNF:7
 FNH:7
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Business\Services\AlertService.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Business\Services\AlertService.cs
 FN:16,System.Int32 NamespaceGPT.Business.Services.AlertService::AddAlert(NamespaceGPT.Data.Models.IAlert)
 FNDA:0,System.Int32 NamespaceGPT.Business.Services.AlertService::AddAlert(NamespaceGPT.Data.Models.IAlert)
 DA:17,0
@@ -503,7 +503,7 @@ BRH:0
 FNF:8
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Business\Services\FavouriteProductService.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Business\Services\FavouriteProductService.cs
 FN:16,System.Int32 NamespaceGPT.Business.Services.FavouriteProductService::AddFavouriteProduct(NamespaceGPT.Data.Models.FavouriteProduct)
 FNDA:0,System.Int32 NamespaceGPT.Business.Services.FavouriteProductService::AddFavouriteProduct(NamespaceGPT.Data.Models.FavouriteProduct)
 DA:17,0
@@ -549,7 +549,7 @@ BRH:0
 FNF:7
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Business\Services\ListingService.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Business\Services\ListingService.cs
 FN:16,System.Int32 NamespaceGPT.Business.Services.ListingService::AddListing(NamespaceGPT.Data.Models.Listing)
 FNDA:0,System.Int32 NamespaceGPT.Business.Services.ListingService::AddListing(NamespaceGPT.Data.Models.Listing)
 DA:17,0
@@ -595,48 +595,48 @@ BRH:0
 FNF:7
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Business\Services\MarketplaceService.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Business\Services\MarketplaceService.cs
 FN:16,System.Int32 NamespaceGPT.Business.Services.MarketplaceService::AddMarketplace(NamespaceGPT.Data.Models.Marketplace)
-FNDA:0,System.Int32 NamespaceGPT.Business.Services.MarketplaceService::AddMarketplace(NamespaceGPT.Data.Models.Marketplace)
-DA:17,0
-DA:18,0
-DA:19,0
+FNDA:1,System.Int32 NamespaceGPT.Business.Services.MarketplaceService::AddMarketplace(NamespaceGPT.Data.Models.Marketplace)
+DA:17,1
+DA:18,1
+DA:19,1
 FN:21,System.Boolean NamespaceGPT.Business.Services.MarketplaceService::DeleteMarketplace(System.Int32)
-FNDA:0,System.Boolean NamespaceGPT.Business.Services.MarketplaceService::DeleteMarketplace(System.Int32)
-DA:22,0
-DA:23,0
-DA:24,0
+FNDA:2,System.Boolean NamespaceGPT.Business.Services.MarketplaceService::DeleteMarketplace(System.Int32)
+DA:22,2
+DA:23,2
+DA:24,2
 FN:26,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.Marketplace> NamespaceGPT.Business.Services.MarketplaceService::GetAllMarketplaces()
-FNDA:0,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.Marketplace> NamespaceGPT.Business.Services.MarketplaceService::GetAllMarketplaces()
-DA:27,0
-DA:28,0
-DA:29,0
+FNDA:1,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.Marketplace> NamespaceGPT.Business.Services.MarketplaceService::GetAllMarketplaces()
+DA:27,1
+DA:28,1
+DA:29,1
 FN:31,NamespaceGPT.Data.Models.Marketplace NamespaceGPT.Business.Services.MarketplaceService::GetMarketplace(System.Int32)
-FNDA:0,NamespaceGPT.Data.Models.Marketplace NamespaceGPT.Business.Services.MarketplaceService::GetMarketplace(System.Int32)
-DA:32,0
-DA:33,0
-DA:34,0
+FNDA:5,NamespaceGPT.Data.Models.Marketplace NamespaceGPT.Business.Services.MarketplaceService::GetMarketplace(System.Int32)
+DA:32,5
+DA:33,5
+DA:34,5
 FN:36,System.Boolean NamespaceGPT.Business.Services.MarketplaceService::UpdateMarketplace(System.Int32,NamespaceGPT.Data.Models.Marketplace)
-FNDA:0,System.Boolean NamespaceGPT.Business.Services.MarketplaceService::UpdateMarketplace(System.Int32,NamespaceGPT.Data.Models.Marketplace)
-DA:37,0
-DA:38,0
-DA:39,0
+FNDA:2,System.Boolean NamespaceGPT.Business.Services.MarketplaceService::UpdateMarketplace(System.Int32,NamespaceGPT.Data.Models.Marketplace)
+DA:37,2
+DA:38,2
+DA:39,2
 FN:10,System.Void NamespaceGPT.Business.Services.MarketplaceService::.ctor(NamespaceGPT.Data.Repositories.Interfaces.IMarketplaceRepository)
-FNDA:0,System.Void NamespaceGPT.Business.Services.MarketplaceService::.ctor(NamespaceGPT.Data.Repositories.Interfaces.IMarketplaceRepository)
-DA:11,0
-DA:12,0
-DA:13,0
-DA:14,0
+FNDA:8,System.Void NamespaceGPT.Business.Services.MarketplaceService::.ctor(NamespaceGPT.Data.Repositories.Interfaces.IMarketplaceRepository)
+DA:11,8
+DA:12,8
+DA:13,8
+DA:14,8
 BRDA:13,11,0,0
-BRDA:13,11,1,0
+BRDA:13,11,1,8
 LF:19
-LH:0
+LH:19
 BRF:2
-BRH:0
+BRH:1
 FNF:6
-FNH:0
+FNH:6
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Business\Services\ProductService.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Business\Services\ProductService.cs
 FN:16,System.Int32 NamespaceGPT.Business.Services.ProductService::AddProduct(NamespaceGPT.Data.Models.Product)
 FNDA:1,System.Int32 NamespaceGPT.Business.Services.ProductService::AddProduct(NamespaceGPT.Data.Models.Product)
 DA:17,1
@@ -677,7 +677,7 @@ BRH:1
 FNF:6
 FNH:6
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Business\Services\ReviewService.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Business\Services\ReviewService.cs
 FN:15,System.Int32 NamespaceGPT.Business.Services.ReviewService::AddReview(NamespaceGPT.Data.Models.Review)
 FNDA:0,System.Int32 NamespaceGPT.Business.Services.ReviewService::AddReview(NamespaceGPT.Data.Models.Review)
 DA:16,0
@@ -728,7 +728,7 @@ BRH:0
 FNF:8
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Business\Services\SaleService.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Business\Services\SaleService.cs
 FN:16,System.Int32 NamespaceGPT.Business.Services.SaleService::AddSale(NamespaceGPT.Data.Models.Sale)
 FNDA:0,System.Int32 NamespaceGPT.Business.Services.SaleService::AddSale(NamespaceGPT.Data.Models.Sale)
 DA:17,0
@@ -779,48 +779,48 @@ BRH:0
 FNF:8
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Business\Services\UserActivityService.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Business\Services\UserActivityService.cs
 FN:16,System.Int32 NamespaceGPT.Business.Services.UserActivityService::AddUserActivity(NamespaceGPT.Data.Models.UserActivity)
-FNDA:0,System.Int32 NamespaceGPT.Business.Services.UserActivityService::AddUserActivity(NamespaceGPT.Data.Models.UserActivity)
-DA:17,0
-DA:18,0
-DA:19,0
+FNDA:1,System.Int32 NamespaceGPT.Business.Services.UserActivityService::AddUserActivity(NamespaceGPT.Data.Models.UserActivity)
+DA:17,1
+DA:18,1
+DA:19,1
 FN:21,System.Boolean NamespaceGPT.Business.Services.UserActivityService::DeleteUserActivity(System.Int32)
-FNDA:0,System.Boolean NamespaceGPT.Business.Services.UserActivityService::DeleteUserActivity(System.Int32)
-DA:22,0
-DA:23,0
-DA:24,0
+FNDA:2,System.Boolean NamespaceGPT.Business.Services.UserActivityService::DeleteUserActivity(System.Int32)
+DA:22,2
+DA:23,2
+DA:24,2
 FN:26,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Business.Services.UserActivityService::GetAllUserActivities()
-FNDA:0,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Business.Services.UserActivityService::GetAllUserActivities()
-DA:27,0
-DA:28,0
-DA:29,0
+FNDA:1,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Business.Services.UserActivityService::GetAllUserActivities()
+DA:27,1
+DA:28,1
+DA:29,1
 FN:31,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Business.Services.UserActivityService::GetUserActivitiesOfUser(System.Int32)
-FNDA:0,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Business.Services.UserActivityService::GetUserActivitiesOfUser(System.Int32)
-DA:32,0
-DA:33,0
-DA:34,0
+FNDA:5,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Business.Services.UserActivityService::GetUserActivitiesOfUser(System.Int32)
+DA:32,5
+DA:33,5
+DA:34,5
 FN:36,System.Boolean NamespaceGPT.Business.Services.UserActivityService::UpdateUserActivity(System.Int32,NamespaceGPT.Data.Models.UserActivity)
-FNDA:0,System.Boolean NamespaceGPT.Business.Services.UserActivityService::UpdateUserActivity(System.Int32,NamespaceGPT.Data.Models.UserActivity)
-DA:37,0
-DA:38,0
-DA:39,0
+FNDA:2,System.Boolean NamespaceGPT.Business.Services.UserActivityService::UpdateUserActivity(System.Int32,NamespaceGPT.Data.Models.UserActivity)
+DA:37,2
+DA:38,2
+DA:39,2
 FN:10,System.Void NamespaceGPT.Business.Services.UserActivityService::.ctor(NamespaceGPT.Data.Repositories.Interfaces.IUserActivityRepository)
-FNDA:0,System.Void NamespaceGPT.Business.Services.UserActivityService::.ctor(NamespaceGPT.Data.Repositories.Interfaces.IUserActivityRepository)
-DA:11,0
-DA:12,0
-DA:13,0
-DA:14,0
+FNDA:8,System.Void NamespaceGPT.Business.Services.UserActivityService::.ctor(NamespaceGPT.Data.Repositories.Interfaces.IUserActivityRepository)
+DA:11,8
+DA:12,8
+DA:13,8
+DA:14,8
 BRDA:13,11,0,0
-BRDA:13,11,1,0
+BRDA:13,11,1,8
 LF:19
-LH:0
+LH:19
 BRF:2
-BRH:0
+BRH:1
 FNF:6
-FNH:0
+FNH:6
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Business\Services\UserService.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Business\Services\UserService.cs
 FN:16,System.Int32 NamespaceGPT.Business.Services.UserService::AddUser(NamespaceGPT.Data.Models.User)
 FNDA:1,System.Int32 NamespaceGPT.Business.Services.UserService::AddUser(NamespaceGPT.Data.Models.User)
 DA:17,1
@@ -866,7 +866,7 @@ BRH:1
 FNF:7
 FNH:7
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\Modules\Sorting.Module\SortingModule.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Common\Modules\Sorting.Module\SortingModule.cs
 FN:6,System.Void NamespaceGPT.Common.Modules.Sorting.Module.SortingModule`1::BubbleSort(System.Collections.Generic.List`1<T>)
 FNDA:0,System.Void NamespaceGPT.Common.Modules.Sorting.Module.SortingModule`1::BubbleSort(System.Collections.Generic.List`1<T>)
 DA:7,0
@@ -980,7 +980,7 @@ BRH:0
 FNF:5
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\Modules\Encryption.Module\EncryptionModule.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Common\Modules\Encryption.Module\EncryptionModule.cs
 FN:11,System.Void NamespaceGPT.Common.Modules.Encryption.Module.EncryptionModule::SetCypherAlphabet(System.String)
 FNDA:0,System.Void NamespaceGPT.Common.Modules.Encryption.Module.EncryptionModule::SetCypherAlphabet(System.String)
 DA:12,0
@@ -1066,7 +1066,7 @@ BRH:0
 FNF:4
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\Modules\CustomLogging.Module\LoggingClass.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Common\Modules\CustomLogging.Module\LoggingClass.cs
 FN:23,System.Void NamespaceGPT.Common.Modules.CustomLogging.Module.LoggingClass::SetFilePath(System.String)
 FNDA:0,System.Void NamespaceGPT.Common.Modules.CustomLogging.Module.LoggingClass::SetFilePath(System.String)
 DA:24,0
@@ -1155,27 +1155,27 @@ BRH:0
 FNF:7
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\Modules\ConfigurationParser.Module\JsonManager\JsonFileReader.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Common\Modules\ConfigurationParser.Module\JsonManager\JsonFileReader.cs
 FN:7,System.Object NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonFileReader::ParseJsonFile(System.String)
-FNDA:38,System.Object NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonFileReader::ParseJsonFile(System.String)
-DA:8,38
-DA:10,38
-DA:12,38
-DA:13,38
-DA:15,38
-DA:17,228
-DA:18,190
-DA:19,190
-DA:20,190
-DA:21,190
-DA:23,38
+FNDA:72,System.Object NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonFileReader::ParseJsonFile(System.String)
+DA:8,72
+DA:10,72
+DA:12,72
+DA:13,72
+DA:15,72
+DA:17,432
+DA:18,360
+DA:19,360
+DA:20,360
+DA:21,360
+DA:23,72
 DA:25,0
 DA:26,0
 DA:28,0
 DA:30,0
-DA:31,38
-BRDA:17,52,1,190
-BRDA:17,52,0,38
+DA:31,72
+BRDA:17,52,1,360
+BRDA:17,52,0,72
 LF:16
 LH:12
 BRF:2
@@ -1183,7 +1183,7 @@ BRH:2
 FNF:1
 FNH:1
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\Modules\ConfigurationParser.Module\JsonManager\JsonParser\JsonArray.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Common\Modules\ConfigurationParser.Module\JsonManager\JsonParser\JsonArray.cs
 FN:4,System.Void NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonArray::.ctor()
 FNDA:0,System.Void NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonArray::.ctor()
 DA:5,0
@@ -1194,10 +1194,10 @@ BRH:0
 FNF:1
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\Modules\ConfigurationParser.Module\JsonManager\JsonParser\JsonObject.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Common\Modules\ConfigurationParser.Module\JsonManager\JsonParser\JsonObject.cs
 FN:4,System.Collections.Generic.Dictionary`2<System.String,System.Object> NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonObject::get_Properties()
-FNDA:228,System.Collections.Generic.Dictionary`2<System.String,System.Object> NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonObject::get_Properties()
-DA:5,228
+FNDA:432,System.Collections.Generic.Dictionary`2<System.String,System.Object> NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonObject::get_Properties()
+DA:5,432
 LF:1
 LH:1
 BRF:0
@@ -1205,48 +1205,48 @@ BRH:0
 FNF:1
 FNH:1
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\Modules\ConfigurationParser.Module\JsonManager\JsonParser\JsonParser.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Common\Modules\ConfigurationParser.Module\JsonManager\JsonParser\JsonParser.cs
 FN:8,System.Object NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::Parse(System.String)
-FNDA:38,System.Object NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::Parse(System.String)
-DA:9,38
-DA:10,38
-DA:12,38
-DA:14,38
-DA:16,38
-DA:17,38
-DA:18,38
+FNDA:72,System.Object NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::Parse(System.String)
+DA:9,72
+DA:10,72
+DA:12,72
+DA:14,72
+DA:16,72
+DA:17,72
+DA:18,72
 DA:20,0
 DA:21,0
 DA:22,0
 DA:25,0
-DA:26,38
-BRDA:16,27,0,38
+DA:26,72
+BRDA:16,27,0,72
 BRDA:16,27,1,0
 BRDA:20,50,0,0
 BRDA:20,50,1,0
 FN:28,NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonObject NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::ParseObject(System.String,System.Int32&)
-FNDA:76,NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonObject NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::ParseObject(System.String,System.Int32&)
-DA:29,76
-DA:30,76
-DA:31,76
-DA:33,152
-DA:34,76
-DA:35,76
-DA:36,76
-DA:38,76
-DA:39,76
-DA:41,76
+FNDA:144,NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonObject NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::ParseObject(System.String,System.Int32&)
+DA:29,144
+DA:30,144
+DA:31,144
+DA:33,288
+DA:34,144
+DA:35,144
+DA:36,144
+DA:38,144
+DA:39,144
+DA:41,144
 DA:42,0
 DA:43,0
 DA:44,0
-DA:45,76
-DA:47,76
-DA:48,76
-DA:49,76
-BRDA:33,111,1,76
+DA:45,144
+DA:47,144
+DA:48,144
+DA:49,144
+BRDA:33,111,1,144
 BRDA:41,77,0,0
-BRDA:41,77,1,76
-BRDA:33,111,0,76
+BRDA:41,77,1,144
+BRDA:33,111,0,144
 FN:51,NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonArray NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::ParseArray(System.String,System.Int32&)
 FNDA:0,NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonArray NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::ParseArray(System.String,System.Int32&)
 DA:52,0
@@ -1268,39 +1268,39 @@ BRDA:60,56,0,0
 BRDA:60,56,1,0
 BRDA:56,88,0,0
 FN:70,System.Object NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::ParseValue(System.String,System.Int32&)
-FNDA:76,System.Object NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::ParseValue(System.String,System.Int32&)
-DA:71,76
-DA:72,76
-DA:74,76
-DA:76,76
+FNDA:144,System.Object NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::ParseValue(System.String,System.Int32&)
+DA:71,144
+DA:72,144
+DA:74,144
+DA:76,144
 DA:77,0
 DA:78,0
-DA:81,76
-DA:82,76
-DA:83,38
+DA:81,144
+DA:82,144
+DA:83,72
 DA:84,0
-DA:85,38
+DA:85,72
 DA:86,0
 DA:87,0
 DA:88,0
 DA:89,0
-DA:90,76
-DA:91,76
-BRDA:76,21,0,76
-BRDA:76,26,0,38
-BRDA:76,26,1,38
+DA:90,144
+DA:91,144
+BRDA:76,21,0,144
+BRDA:76,26,0,72
+BRDA:76,26,1,72
 BRDA:76,21,1,0
 BRDA:76,44,0,0
-BRDA:76,44,1,76
-BRDA:81,67,0,38
+BRDA:76,44,1,144
+BRDA:81,67,0,72
 BRDA:81,72,0,0
 BRDA:81,79,0,0
-BRDA:81,67,1,38
-BRDA:81,93,0,38
-BRDA:81,100,0,38
-BRDA:81,107,1,38
+BRDA:81,67,1,72
+BRDA:81,93,0,72
+BRDA:81,100,0,72
+BRDA:81,107,1,72
 BRDA:81,79,1,0
-BRDA:81,72,1,38
+BRDA:81,72,1,72
 BRDA:81,100,1,0
 BRDA:81,86,1,0
 BRDA:81,93,1,0
@@ -1332,19 +1332,19 @@ BRDA:97,78,0,0
 BRDA:105,105,0,0
 BRDA:105,105,1,0
 FN:113,System.String NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::ParseString(System.String,System.Int32&)
-FNDA:114,System.String NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::ParseString(System.String,System.Int32&)
-DA:114,114
-DA:115,114
-DA:117,114
-DA:119,4940
-DA:120,4826
-DA:121,4826
-DA:122,4826
-DA:124,114
-DA:126,114
-DA:127,114
-BRDA:119,52,1,4826
-BRDA:119,52,0,114
+FNDA:216,System.String NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::ParseString(System.String,System.Int32&)
+DA:114,216
+DA:115,216
+DA:117,216
+DA:119,9072
+DA:120,8856
+DA:121,8856
+DA:122,8856
+DA:124,216
+DA:126,216
+DA:127,216
+BRDA:119,52,1,8856
+BRDA:119,52,0,216
 FN:129,System.Boolean NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::ParseTrue(System.String,System.Int32&)
 FNDA:0,System.Boolean NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::ParseTrue(System.String,System.Int32&)
 DA:130,0
@@ -1364,37 +1364,37 @@ DA:143,0
 DA:144,0
 DA:145,0
 FN:148,System.Void NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::SkipWhitespace(System.String,System.Int32&)
-FNDA:114,System.Void NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::SkipWhitespace(System.String,System.Int32&)
-DA:149,114
-DA:150,190
-DA:151,76
-DA:152,76
-DA:153,76
-DA:154,114
-BRDA:150,39,1,76
-BRDA:150,19,0,190
+FNDA:216,System.Void NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::SkipWhitespace(System.String,System.Int32&)
+DA:149,216
+DA:150,360
+DA:151,144
+DA:152,144
+DA:153,144
+DA:154,216
+BRDA:150,39,1,144
+BRDA:150,19,0,360
 BRDA:150,19,1,0
-BRDA:150,39,0,114
+BRDA:150,39,0,216
 FN:156,System.Char NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::Peek(System.String,System.Int32)
-FNDA:5738,System.Char NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::Peek(System.String,System.Int32)
-DA:157,5738
-DA:158,5738
-DA:159,5738
+FNDA:10584,System.Char NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::Peek(System.String,System.Int32)
+DA:157,10584
+DA:158,10584
+DA:159,10584
 FN:161,System.Char NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::Next(System.String,System.Int32&)
-FNDA:4826,System.Char NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::Next(System.String,System.Int32&)
-DA:162,4826
-DA:163,4826
-DA:164,4826
+FNDA:8856,System.Char NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::Next(System.String,System.Int32&)
+DA:162,8856
+DA:163,8856
+DA:164,8856
 FN:166,System.Void NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::Consume(System.String,System.Int32&,System.Char)
-FNDA:456,System.Void NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::Consume(System.String,System.Int32&,System.Char)
-DA:167,456
-DA:168,456
+FNDA:864,System.Void NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::Consume(System.String,System.Int32&,System.Char)
+DA:167,864
+DA:168,864
 DA:169,0
 DA:170,0
-DA:173,456
-DA:174,456
+DA:173,864
+DA:174,864
 BRDA:168,17,0,0
-BRDA:168,17,1,456
+BRDA:168,17,1,864
 FN:176,System.Void NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::Consume(System.String,System.Int32&,System.String)
 FNDA:0,System.Void NamespaceGPT.Common.Modules.ConfigurationParser.Module.JsonManager.JsonParser.JsonParser::Consume(System.String,System.Int32&,System.String)
 DA:177,0
@@ -1412,7 +1412,7 @@ BRH:20
 FNF:14
 FNH:8
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\Modules\BasicDataValidation.Module\Implementations\Validators\DateValidator.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Common\Modules\BasicDataValidation.Module\Implementations\Validators\DateValidator.cs
 FN:8,System.Boolean NamespaceGPT.Common.Modules.BasicDataValidation.Module.Implementations.Validators.DateValidator::Validate(System.String)
 FNDA:0,System.Boolean NamespaceGPT.Common.Modules.BasicDataValidation.Module.Implementations.Validators.DateValidator::Validate(System.String)
 DA:9,0
@@ -1432,7 +1432,7 @@ BRH:0
 FNF:1
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\Modules\BasicDataValidation.Module\Implementations\Validators\URLValidator.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Common\Modules\BasicDataValidation.Module\Implementations\Validators\URLValidator.cs
 FN:7,System.Boolean NamespaceGPT.Common.Modules.BasicDataValidation.Module.Implementations.Validators.URLValidator::Validate(System.String)
 FNDA:0,System.Boolean NamespaceGPT.Common.Modules.BasicDataValidation.Module.Implementations.Validators.URLValidator::Validate(System.String)
 DA:8,0
@@ -1457,7 +1457,7 @@ BRH:0
 FNF:1
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\Modules\BasicDataValidation.Module\Implementations\Validators\UsernameValidator.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Common\Modules\BasicDataValidation.Module\Implementations\Validators\UsernameValidator.cs
 FN:8,System.Boolean NamespaceGPT.Common.Modules.BasicDataValidation.Module.Implementations.Validators.UsernameValidator::Validate(System.String)
 FNDA:0,System.Boolean NamespaceGPT.Common.Modules.BasicDataValidation.Module.Implementations.Validators.UsernameValidator::Validate(System.String)
 DA:9,0
@@ -1477,7 +1477,7 @@ BRH:0
 FNF:1
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\Modules\BasicDataValidation.Module\Implementations\Validators\EmailValidator.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Common\Modules\BasicDataValidation.Module\Implementations\Validators\EmailValidator.cs
 FN:8,System.Boolean NamespaceGPT.Common.BasicDataValidation.Module.Implementations.Validators.EmailValidator::Validate(System.String)
 FNDA:0,System.Boolean NamespaceGPT.Common.BasicDataValidation.Module.Implementations.Validators.EmailValidator::Validate(System.String)
 DA:9,0
@@ -1499,7 +1499,7 @@ BRH:0
 FNF:1
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\Modules\BasicDataValidation.Module\Implementations\Validators\PasswordValidator.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Common\Modules\BasicDataValidation.Module\Implementations\Validators\PasswordValidator.cs
 FN:8,System.Boolean NamespaceGPT.Common.BasicDataValidation.Module.Implementations.Validators.PasswordValidator::Validate(System.String)
 FNDA:0,System.Boolean NamespaceGPT.Common.BasicDataValidation.Module.Implementations.Validators.PasswordValidator::Validate(System.String)
 DA:9,0
@@ -1519,7 +1519,7 @@ BRH:0
 FNF:1
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\Modules\BasicDataValidation.Module\Implementations\Validators\PhoneNumberValidator.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Common\Modules\BasicDataValidation.Module\Implementations\Validators\PhoneNumberValidator.cs
 FN:8,System.Boolean NamespaceGPT.Common.BasicDataValidation.Module.Implementations.Validators.PhoneNumberValidator::Validate(System.String)
 FNDA:0,System.Boolean NamespaceGPT.Common.BasicDataValidation.Module.Implementations.Validators.PhoneNumberValidator::Validate(System.String)
 DA:9,0
@@ -1538,7 +1538,7 @@ BRH:0
 FNF:1
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\Modules\BasicDataValidation.Module\Implementations\Sanitzators\InputSanitazor.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Common\Modules\BasicDataValidation.Module\Implementations\Sanitzators\InputSanitazor.cs
 FN:8,System.String NamespaceGPT.Common.BasicDataValidation.Module.Implementations.Sanitzators.InputSanitizer::Sanitize(System.String)
 FNDA:0,System.String NamespaceGPT.Common.BasicDataValidation.Module.Implementations.Sanitzators.InputSanitizer::Sanitize(System.String)
 DA:9,0
@@ -1573,23 +1573,23 @@ BRH:0
 FNF:1
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\ConfigurationManager\ConfigurationManager.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Common\ConfigurationManager\ConfigurationManager.cs
 FN:8,System.String NamespaceGPT.Common.ConfigurationManager.ConfigurationManager::GetConnectionString(System.String)
-FNDA:38,System.String NamespaceGPT.Common.ConfigurationManager.ConfigurationManager::GetConnectionString(System.String)
-DA:9,38
-DA:10,38
-DA:12,38
-DA:14,38
+FNDA:72,System.String NamespaceGPT.Common.ConfigurationManager.ConfigurationManager::GetConnectionString(System.String)
+DA:9,72
+DA:10,72
+DA:12,72
+DA:14,72
 DA:15,0
 DA:16,0
-DA:19,38
-DA:20,38
+DA:19,72
+DA:20,72
 BRDA:12,14,0,0
-BRDA:12,14,1,38
+BRDA:12,14,1,72
 BRDA:12,41,0,0
-BRDA:12,41,1,38
+BRDA:12,41,1,72
 BRDA:14,74,0,0
-BRDA:14,74,1,38
+BRDA:14,74,1,72
 LF:8
 LH:6
 BRF:6
@@ -1597,7 +1597,7 @@ BRH:3
 FNF:1
 FNH:1
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\Modules\ConfigurationParser.Module\JsonManager\JsonParser\JsonToken.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Common\Modules\ConfigurationParser.Module\JsonManager\JsonParser\JsonToken.cs
 FN:4,NamespaceGPT.Common.ConfigurationManager.Module.JsonManager.JsonParser.JsonTokenType NamespaceGPT.Common.ConfigurationManager.Module.JsonManager.JsonParser.JsonToken::get_Type()
 FNDA:0,NamespaceGPT.Common.ConfigurationManager.Module.JsonManager.JsonParser.JsonTokenType NamespaceGPT.Common.ConfigurationManager.Module.JsonManager.JsonParser.JsonToken::get_Type()
 DA:5,0
@@ -1611,7 +1611,7 @@ BRH:0
 FNF:2
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Repositories\AlertRepository.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Repositories\AlertRepository.cs
 FN:18,System.Int32 NamespaceGPT.Data.Repositories.AlertRepository::AddAlert(NamespaceGPT.Data.Models.IAlert)
 FNDA:0,System.Int32 NamespaceGPT.Data.Repositories.AlertRepository::AddAlert(NamespaceGPT.Data.Models.IAlert)
 DA:19,0
@@ -1930,7 +1930,7 @@ BRH:0
 FNF:8
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Repositories\FavouriteProductRepository.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Repositories\FavouriteProductRepository.cs
 FN:20,System.Int32 NamespaceGPT.Data.Repositories.FavouriteProductRepository::AddFavouriteProduct(NamespaceGPT.Data.Models.FavouriteProduct)
 FNDA:0,System.Int32 NamespaceGPT.Data.Repositories.FavouriteProductRepository::AddFavouriteProduct(NamespaceGPT.Data.Models.FavouriteProduct)
 DA:21,0
@@ -2064,7 +2064,7 @@ BRH:0
 FNF:7
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Repositories\ListingRepository.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Repositories\ListingRepository.cs
 FN:18,System.Int32 NamespaceGPT.Data.Repositories.ListingRepository::AddListing(NamespaceGPT.Data.Models.Listing)
 FNDA:0,System.Int32 NamespaceGPT.Data.Repositories.ListingRepository::AddListing(NamespaceGPT.Data.Models.Listing)
 DA:19,0
@@ -2196,113 +2196,113 @@ BRH:0
 FNF:7
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Repositories\MarketplaceRepository.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Repositories\MarketplaceRepository.cs
 FN:18,System.Int32 NamespaceGPT.Data.Repositories.MarketplaceRepository::AddMarketplace(NamespaceGPT.Data.Models.Marketplace)
-FNDA:0,System.Int32 NamespaceGPT.Data.Repositories.MarketplaceRepository::AddMarketplace(NamespaceGPT.Data.Models.Marketplace)
-DA:19,0
-DA:20,0
-DA:21,0
-DA:23,0
-DA:24,0
-DA:25,0
-DA:27,0
-DA:28,0
-DA:29,0
-DA:31,0
-DA:33,0
-DA:34,0
+FNDA:1,System.Int32 NamespaceGPT.Data.Repositories.MarketplaceRepository::AddMarketplace(NamespaceGPT.Data.Models.Marketplace)
+DA:19,1
+DA:20,1
+DA:21,1
+DA:23,1
+DA:24,1
+DA:25,1
+DA:27,1
+DA:28,1
+DA:29,1
+DA:31,1
+DA:33,1
+DA:34,1
 FN:36,System.Boolean NamespaceGPT.Data.Repositories.MarketplaceRepository::DeleteMarketplace(System.Int32)
-FNDA:0,System.Boolean NamespaceGPT.Data.Repositories.MarketplaceRepository::DeleteMarketplace(System.Int32)
-DA:37,0
-DA:38,0
-DA:39,0
-DA:41,0
-DA:42,0
-DA:43,0
-DA:45,0
-DA:47,0
-DA:49,0
-DA:50,0
+FNDA:2,System.Boolean NamespaceGPT.Data.Repositories.MarketplaceRepository::DeleteMarketplace(System.Int32)
+DA:37,2
+DA:38,2
+DA:39,2
+DA:41,2
+DA:42,2
+DA:43,2
+DA:45,2
+DA:47,2
+DA:49,2
+DA:50,2
 FN:52,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.Marketplace> NamespaceGPT.Data.Repositories.MarketplaceRepository::GetAllMarketplaces()
-FNDA:0,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.Marketplace> NamespaceGPT.Data.Repositories.MarketplaceRepository::GetAllMarketplaces()
-DA:53,0
-DA:54,0
-DA:55,0
-DA:57,0
-DA:58,0
-DA:59,0
-DA:61,0
-DA:62,0
-DA:64,0
-DA:65,0
-DA:66,0
-DA:67,0
-DA:68,0
-DA:69,0
-DA:70,0
-DA:71,0
-DA:72,0
-DA:74,0
-DA:75,0
-DA:77,0
-DA:78,0
-BRDA:64,146,1,0
-BRDA:64,146,0,0
+FNDA:1,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.Marketplace> NamespaceGPT.Data.Repositories.MarketplaceRepository::GetAllMarketplaces()
+DA:53,1
+DA:54,1
+DA:55,1
+DA:57,1
+DA:58,1
+DA:59,1
+DA:61,1
+DA:62,1
+DA:64,2
+DA:65,1
+DA:66,1
+DA:67,1
+DA:68,1
+DA:69,1
+DA:70,1
+DA:71,1
+DA:72,1
+DA:74,1
+DA:75,1
+DA:77,1
+DA:78,1
+BRDA:64,146,1,1
+BRDA:64,146,0,1
 FN:80,NamespaceGPT.Data.Models.Marketplace NamespaceGPT.Data.Repositories.MarketplaceRepository::GetMarketplace(System.Int32)
-FNDA:0,NamespaceGPT.Data.Models.Marketplace NamespaceGPT.Data.Repositories.MarketplaceRepository::GetMarketplace(System.Int32)
-DA:81,0
-DA:82,0
-DA:83,0
-DA:85,0
-DA:86,0
-DA:87,0
-DA:89,0
-DA:91,0
-DA:93,0
-DA:94,0
-DA:95,0
-DA:96,0
-DA:97,0
-DA:98,0
-DA:99,0
-DA:100,0
-DA:101,0
-DA:103,0
-DA:106,0
-DA:107,0
-BRDA:93,85,0,0
-BRDA:93,85,1,0
+FNDA:5,NamespaceGPT.Data.Models.Marketplace NamespaceGPT.Data.Repositories.MarketplaceRepository::GetMarketplace(System.Int32)
+DA:81,5
+DA:82,5
+DA:83,5
+DA:85,5
+DA:86,5
+DA:87,5
+DA:89,5
+DA:91,5
+DA:93,5
+DA:94,3
+DA:95,3
+DA:96,3
+DA:97,3
+DA:98,3
+DA:99,3
+DA:100,3
+DA:101,3
+DA:103,3
+DA:106,2
+DA:107,5
+BRDA:93,85,0,3
+BRDA:93,85,1,2
 FN:109,System.Boolean NamespaceGPT.Data.Repositories.MarketplaceRepository::UpdateMarketplace(System.Int32,NamespaceGPT.Data.Models.Marketplace)
-FNDA:0,System.Boolean NamespaceGPT.Data.Repositories.MarketplaceRepository::UpdateMarketplace(System.Int32,NamespaceGPT.Data.Models.Marketplace)
-DA:110,0
-DA:111,0
-DA:112,0
-DA:114,0
-DA:115,0
-DA:116,0
-DA:117,0
-DA:118,0
-DA:120,0
-DA:121,0
-DA:122,0
-DA:123,0
-DA:125,0
-DA:127,0
-DA:128,0
+FNDA:2,System.Boolean NamespaceGPT.Data.Repositories.MarketplaceRepository::UpdateMarketplace(System.Int32,NamespaceGPT.Data.Models.Marketplace)
+DA:110,2
+DA:111,2
+DA:112,2
+DA:114,2
+DA:115,2
+DA:116,2
+DA:117,2
+DA:118,2
+DA:120,2
+DA:121,2
+DA:122,2
+DA:123,2
+DA:125,2
+DA:127,2
+DA:128,2
 FN:12,System.Void NamespaceGPT.Data.Repositories.MarketplaceRepository::.ctor(NamespaceGPT.Common.ConfigurationManager.IConfigurationManager)
-FNDA:0,System.Void NamespaceGPT.Data.Repositories.MarketplaceRepository::.ctor(NamespaceGPT.Common.ConfigurationManager.IConfigurationManager)
-DA:13,0
-DA:14,0
-DA:15,0
-DA:16,0
+FNDA:8,System.Void NamespaceGPT.Data.Repositories.MarketplaceRepository::.ctor(NamespaceGPT.Common.ConfigurationManager.IConfigurationManager)
+DA:13,8
+DA:14,8
+DA:15,8
+DA:16,8
 LF:82
-LH:0
+LH:82
 BRF:4
-BRH:0
+BRH:4
 FNF:6
-FNH:0
+FNH:6
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Repositories\ProductRepository.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Repositories\ProductRepository.cs
 FN:22,System.Int32 NamespaceGPT.Data.Repositories.ProductRepository::AddProduct(NamespaceGPT.Data.Models.Product)
 FNDA:1,System.Int32 NamespaceGPT.Data.Repositories.ProductRepository::AddProduct(NamespaceGPT.Data.Models.Product)
 DA:23,1
@@ -2456,7 +2456,7 @@ BRH:12
 FNF:8
 FNH:8
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Repositories\ReviewRepository.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Repositories\ReviewRepository.cs
 FN:17,System.Int32 NamespaceGPT.Data.Repositories.ReviewRepository::AddReview(NamespaceGPT.Data.Models.Review)
 FNDA:0,System.Int32 NamespaceGPT.Data.Repositories.ReviewRepository::AddReview(NamespaceGPT.Data.Models.Review)
 DA:18,0
@@ -2626,7 +2626,7 @@ BRH:0
 FNF:8
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Repositories\SaleRepository.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Repositories\SaleRepository.cs
 FN:18,System.Int32 NamespaceGPT.Data.Repositories.SaleRepository::AddSale(NamespaceGPT.Data.Models.Sale)
 FNDA:0,System.Int32 NamespaceGPT.Data.Repositories.SaleRepository::AddSale(NamespaceGPT.Data.Models.Sale)
 DA:19,0
@@ -2778,111 +2778,111 @@ BRH:0
 FNF:8
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Repositories\UserActivityRepository.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Repositories\UserActivityRepository.cs
 FN:18,System.Int32 NamespaceGPT.Data.Repositories.UserActivityRepository::AddUserActivity(NamespaceGPT.Data.Models.UserActivity)
-FNDA:0,System.Int32 NamespaceGPT.Data.Repositories.UserActivityRepository::AddUserActivity(NamespaceGPT.Data.Models.UserActivity)
-DA:19,0
-DA:20,0
-DA:21,0
-DA:23,0
-DA:24,0
-DA:25,0
-DA:27,0
-DA:28,0
-DA:30,0
-DA:32,0
-DA:33,0
+FNDA:1,System.Int32 NamespaceGPT.Data.Repositories.UserActivityRepository::AddUserActivity(NamespaceGPT.Data.Models.UserActivity)
+DA:19,1
+DA:20,1
+DA:21,1
+DA:23,1
+DA:24,1
+DA:25,1
+DA:27,1
+DA:28,1
+DA:30,1
+DA:32,1
+DA:33,1
 FN:35,System.Boolean NamespaceGPT.Data.Repositories.UserActivityRepository::DeleteUserActivity(System.Int32)
-FNDA:0,System.Boolean NamespaceGPT.Data.Repositories.UserActivityRepository::DeleteUserActivity(System.Int32)
-DA:36,0
-DA:37,0
-DA:38,0
-DA:40,0
-DA:41,0
-DA:42,0
-DA:44,0
-DA:46,0
-DA:48,0
-DA:49,0
+FNDA:2,System.Boolean NamespaceGPT.Data.Repositories.UserActivityRepository::DeleteUserActivity(System.Int32)
+DA:36,2
+DA:37,2
+DA:38,2
+DA:40,2
+DA:41,2
+DA:42,2
+DA:44,2
+DA:46,2
+DA:48,2
+DA:49,2
 FN:51,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Data.Repositories.UserActivityRepository::GetAllUserActivities()
-FNDA:0,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Data.Repositories.UserActivityRepository::GetAllUserActivities()
-DA:52,0
-DA:53,0
-DA:54,0
-DA:56,0
-DA:57,0
-DA:58,0
-DA:60,0
-DA:61,0
-DA:63,0
-DA:64,0
-DA:65,0
-DA:66,0
-DA:67,0
-DA:68,0
-DA:69,0
-DA:70,0
-DA:72,0
-DA:73,0
-DA:75,0
-DA:76,0
-BRDA:63,132,1,0
-BRDA:63,132,0,0
+FNDA:1,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Data.Repositories.UserActivityRepository::GetAllUserActivities()
+DA:52,1
+DA:53,1
+DA:54,1
+DA:56,1
+DA:57,1
+DA:58,1
+DA:60,1
+DA:61,1
+DA:63,2
+DA:64,1
+DA:65,1
+DA:66,1
+DA:67,1
+DA:68,1
+DA:69,1
+DA:70,1
+DA:72,1
+DA:73,1
+DA:75,1
+DA:76,1
+BRDA:63,132,1,1
+BRDA:63,132,0,1
 FN:78,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Data.Repositories.UserActivityRepository::GetUserActivitiesOfUser(System.Int32)
-FNDA:0,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Data.Repositories.UserActivityRepository::GetUserActivitiesOfUser(System.Int32)
-DA:79,0
-DA:80,0
-DA:81,0
-DA:83,0
-DA:84,0
-DA:85,0
-DA:87,0
-DA:89,0
-DA:90,0
-DA:92,0
-DA:93,0
-DA:94,0
-DA:95,0
-DA:96,0
-DA:97,0
-DA:98,0
-DA:99,0
-DA:101,0
-DA:102,0
-DA:104,0
-DA:105,0
-BRDA:92,155,1,0
-BRDA:92,155,0,0
+FNDA:5,System.Collections.Generic.IEnumerable`1<NamespaceGPT.Data.Models.UserActivity> NamespaceGPT.Data.Repositories.UserActivityRepository::GetUserActivitiesOfUser(System.Int32)
+DA:79,5
+DA:80,5
+DA:81,5
+DA:83,5
+DA:84,5
+DA:85,5
+DA:87,5
+DA:89,5
+DA:90,5
+DA:92,9
+DA:93,4
+DA:94,4
+DA:95,4
+DA:96,4
+DA:97,4
+DA:98,4
+DA:99,4
+DA:101,4
+DA:102,4
+DA:104,5
+DA:105,5
+BRDA:92,155,1,4
+BRDA:92,155,0,5
 FN:107,System.Boolean NamespaceGPT.Data.Repositories.UserActivityRepository::UpdateUserActivity(System.Int32,NamespaceGPT.Data.Models.UserActivity)
-FNDA:0,System.Boolean NamespaceGPT.Data.Repositories.UserActivityRepository::UpdateUserActivity(System.Int32,NamespaceGPT.Data.Models.UserActivity)
-DA:108,0
-DA:109,0
-DA:110,0
-DA:112,0
-DA:113,0
-DA:114,0
-DA:115,0
-DA:116,0
-DA:118,0
-DA:119,0
-DA:120,0
-DA:122,0
-DA:124,0
-DA:125,0
+FNDA:2,System.Boolean NamespaceGPT.Data.Repositories.UserActivityRepository::UpdateUserActivity(System.Int32,NamespaceGPT.Data.Models.UserActivity)
+DA:108,2
+DA:109,2
+DA:110,2
+DA:112,2
+DA:113,2
+DA:114,2
+DA:115,2
+DA:116,2
+DA:118,2
+DA:119,2
+DA:120,2
+DA:122,2
+DA:124,2
+DA:125,2
 FN:12,System.Void NamespaceGPT.Data.Repositories.UserActivityRepository::.ctor(NamespaceGPT.Common.ConfigurationManager.IConfigurationManager)
-FNDA:0,System.Void NamespaceGPT.Data.Repositories.UserActivityRepository::.ctor(NamespaceGPT.Common.ConfigurationManager.IConfigurationManager)
-DA:13,0
-DA:14,0
-DA:15,0
-DA:16,0
+FNDA:8,System.Void NamespaceGPT.Data.Repositories.UserActivityRepository::.ctor(NamespaceGPT.Common.ConfigurationManager.IConfigurationManager)
+DA:13,8
+DA:14,8
+DA:15,8
+DA:16,8
 LF:80
-LH:0
+LH:80
 BRF:4
-BRH:0
+BRH:4
 FNF:6
-FNH:0
+FNH:6
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Repositories\UserRepository.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Repositories\UserRepository.cs
 FN:18,System.Int32 NamespaceGPT.Data.Repositories.UserRepository::AddUser(NamespaceGPT.Data.Models.User)
 FNDA:1,System.Int32 NamespaceGPT.Data.Repositories.UserRepository::AddUser(NamespaceGPT.Data.Models.User)
 DA:19,1
@@ -3002,7 +3002,7 @@ BRH:6
 FNF:7
 FNH:7
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Models\Ad-recommendation.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Models\Ad-recommendation.cs
 FN:10,System.Int32 NamespaceGPT.Data.Models.Ad_recommendation::get_Id()
 FNDA:0,System.Int32 NamespaceGPT.Data.Models.Ad_recommendation::get_Id()
 DA:11,0
@@ -3016,7 +3016,7 @@ BRH:0
 FNF:2
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Models\BackInStockAlert.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Models\BackInStockAlert.cs
 FN:10,System.Int32 NamespaceGPT.Data.Models.BackInStockAlert::get_Id()
 FNDA:0,System.Int32 NamespaceGPT.Data.Models.BackInStockAlert::get_Id()
 DA:11,0
@@ -3054,7 +3054,7 @@ BRH:0
 FNF:9
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Models\FavouriteProduct.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Models\FavouriteProduct.cs
 FN:4,System.Int32 NamespaceGPT.Data.Models.FavouriteProduct::get_Id()
 FNDA:0,System.Int32 NamespaceGPT.Data.Models.FavouriteProduct::get_Id()
 DA:5,0
@@ -3085,7 +3085,7 @@ BRH:0
 FNF:7
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Models\Listing.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Models\Listing.cs
 FN:10,System.Int32 NamespaceGPT.Data.Models.Listing::get_Id()
 FNDA:0,System.Int32 NamespaceGPT.Data.Models.Listing::get_Id()
 DA:11,0
@@ -3119,27 +3119,27 @@ BRH:0
 FNF:8
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Models\Marketplace.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Models\Marketplace.cs
 FN:10,System.Int32 NamespaceGPT.Data.Models.Marketplace::get_Id()
-FNDA:0,System.Int32 NamespaceGPT.Data.Models.Marketplace::get_Id()
-DA:11,0
+FNDA:13,System.Int32 NamespaceGPT.Data.Models.Marketplace::get_Id()
+DA:11,13
 FN:11,System.String NamespaceGPT.Data.Models.Marketplace::get_Name()
-FNDA:0,System.String NamespaceGPT.Data.Models.Marketplace::get_Name()
-DA:12,0
-FN:13,System.String NamespaceGPT.Data.Models.Marketplace::get_Websiteurl()
-FNDA:0,System.String NamespaceGPT.Data.Models.Marketplace::get_Websiteurl()
-DA:14,0
+FNDA:21,System.String NamespaceGPT.Data.Models.Marketplace::get_Name()
+DA:12,21
+FN:13,System.String NamespaceGPT.Data.Models.Marketplace::get_WebsiteURL()
+FNDA:19,System.String NamespaceGPT.Data.Models.Marketplace::get_WebsiteURL()
+DA:14,19
 FN:15,System.String NamespaceGPT.Data.Models.Marketplace::get_CountryOfOrigin()
-FNDA:0,System.String NamespaceGPT.Data.Models.Marketplace::get_CountryOfOrigin()
-DA:16,0
+FNDA:19,System.String NamespaceGPT.Data.Models.Marketplace::get_CountryOfOrigin()
+DA:16,19
 LF:4
-LH:0
+LH:4
 BRF:0
 BRH:0
 FNF:4
-FNH:0
+FNH:4
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Models\NewProductAlert.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Models\NewProductAlert.cs
 FN:10,System.Int32 NamespaceGPT.Data.Models.NewProductAlert::get_Id()
 FNDA:0,System.Int32 NamespaceGPT.Data.Models.NewProductAlert::get_Id()
 DA:11,0
@@ -3167,7 +3167,7 @@ BRH:0
 FNF:6
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Models\PriceDropAlert.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Models\PriceDropAlert.cs
 FN:10,System.Int32 NamespaceGPT.Data.Models.PriceDropAlert::get_Id()
 FNDA:0,System.Int32 NamespaceGPT.Data.Models.PriceDropAlert::get_Id()
 DA:11,0
@@ -3208,7 +3208,7 @@ BRH:0
 FNF:10
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Models\Product.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Models\Product.cs
 FN:4,System.Int32 NamespaceGPT.Data.Models.Product::get_Id()
 FNDA:12,System.Int32 NamespaceGPT.Data.Models.Product::get_Id()
 DA:5,12
@@ -3237,7 +3237,7 @@ BRH:0
 FNF:7
 FNH:7
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Models\Review.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Models\Review.cs
 FN:4,System.Int32 NamespaceGPT.Data.Models.Review::get_Id()
 FNDA:0,System.Int32 NamespaceGPT.Data.Models.Review::get_Id()
 DA:5,0
@@ -3270,7 +3270,7 @@ BRH:0
 FNF:8
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Models\Sale.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Models\Sale.cs
 FN:4,System.Int32 NamespaceGPT.Data.Models.Sale::get_Id()
 FNDA:0,System.Int32 NamespaceGPT.Data.Models.Sale::get_Id()
 DA:5,0
@@ -3294,7 +3294,7 @@ BRH:0
 FNF:5
 FNH:0
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Models\User.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Models\User.cs
 FN:4,System.Int32 NamespaceGPT.Data.Models.User::get_Id()
 FNDA:11,System.Int32 NamespaceGPT.Data.Models.User::get_Id()
 DA:5,11
@@ -3311,27 +3311,20 @@ BRH:0
 FNF:3
 FNH:3
 end_of_record
-SF:C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\Models\UserActivity.cs
+SF:C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.Data\Models\UserActivity.cs
 FN:4,System.Int32 NamespaceGPT.Data.Models.UserActivity::get_Id()
-FNDA:0,System.Int32 NamespaceGPT.Data.Models.UserActivity::get_Id()
-DA:5,0
+FNDA:10,System.Int32 NamespaceGPT.Data.Models.UserActivity::get_Id()
+DA:5,10
 FN:5,System.Int32 NamespaceGPT.Data.Models.UserActivity::get_UserId()
-FNDA:0,System.Int32 NamespaceGPT.Data.Models.UserActivity::get_UserId()
-DA:6,0
+FNDA:15,System.Int32 NamespaceGPT.Data.Models.UserActivity::get_UserId()
+DA:6,15
 FN:6,System.String NamespaceGPT.Data.Models.UserActivity::get_ActionType()
-FNDA:0,System.String NamespaceGPT.Data.Models.UserActivity::get_ActionType()
-DA:7,0
-FN:10,NamespaceGPT.Data.Models.User NamespaceGPT.Data.Models.UserActivity::get_User()
-FNDA:0,NamespaceGPT.Data.Models.User NamespaceGPT.Data.Models.UserActivity::get_User()
-DA:11,0
-FN:12,System.Void NamespaceGPT.Data.Models.UserActivity::set_User(NamespaceGPT.Data.Models.User)
-FNDA:0,System.Void NamespaceGPT.Data.Models.UserActivity::set_User(NamespaceGPT.Data.Models.User)
-DA:13,0
-DA:14,0
-LF:6
-LH:0
+FNDA:23,System.String NamespaceGPT.Data.Models.UserActivity::get_ActionType()
+DA:7,23
+LF:3
+LH:3
 BRF:0
 BRH:0
-FNF:5
-FNH:0
+FNF:3
+FNH:3
 end_of_record

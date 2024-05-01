@@ -25,7 +25,7 @@ namespace NamespaceGPT.Data.Repositories
             command.CommandText = "INSERT INTO Marketplace (marketplacename,websiteurl,country) VALUES (@marketplacename, @websiteurl, @country); SELECT SCOPE_IDENTITY()";
 
             command.Parameters.AddWithValue("@marketplacename", marketplace.Name);
-            command.Parameters.AddWithValue("@websiteurl", marketplace.Websiteurl);
+            command.Parameters.AddWithValue("@websiteurl", marketplace.WebsiteURL);
             command.Parameters.AddWithValue("@country", marketplace.CountryOfOrigin);
 
             int newMarketplaceId = Convert.ToInt32(command.ExecuteScalar());
@@ -67,7 +67,7 @@ namespace NamespaceGPT.Data.Repositories
                 {
                     Id = reader.GetInt32(0),
                     Name = reader.GetString(1),
-                    Websiteurl = reader.GetString(2),
+                    WebsiteURL = reader.GetString(2),
                     CountryOfOrigin = reader.GetString(3)
                 };
 
@@ -96,7 +96,7 @@ namespace NamespaceGPT.Data.Repositories
                 {
                     Id = reader.GetInt32(0),
                     Name = reader.GetString(1),
-                    Websiteurl = reader.GetString(2),
+                    WebsiteURL = reader.GetString(2),
                     CountryOfOrigin = reader.GetString(3)
                 };
 
@@ -118,7 +118,7 @@ namespace NamespaceGPT.Data.Repositories
                                     "WHERE id = @id";
 
             command.Parameters.AddWithValue("@marketplacename", marketplace.Name);
-            command.Parameters.AddWithValue("@websiteurl", marketplace.Websiteurl);
+            command.Parameters.AddWithValue("@websiteurl", marketplace.WebsiteURL);
             command.Parameters.AddWithValue("@country", marketplace.CountryOfOrigin);
             command.Parameters.AddWithValue("@id", id);
 

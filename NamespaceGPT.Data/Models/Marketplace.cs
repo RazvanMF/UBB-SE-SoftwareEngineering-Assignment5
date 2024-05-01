@@ -11,7 +11,7 @@ namespace NamespaceGPT.Data.Models
         public int Id { get; set; } = 0;
         public string Name { get; set; } = string.Empty;
 
-        public string Websiteurl { get; set; } = string.Empty;
+        public string WebsiteURL { get; set; } = string.Empty;
 
         public string CountryOfOrigin { get; set; } = string.Empty;
     }

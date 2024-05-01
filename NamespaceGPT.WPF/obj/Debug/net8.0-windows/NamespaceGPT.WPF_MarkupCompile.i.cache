@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\obj\Debug\net8.0-windows\
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.WPF\obj\Debug\net8.0-windows\
 NamespaceGPT.WPF
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.WPF\App.xaml
+C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 4\ISS\Outsider stuff\NamespaceGPT.WPF\App.xaml
 17-1764661799
 
 23-1178772931
-244103690188
+244790469794
 Admin\AdminDashboard.xaml;Admin\ListingsView.xaml;Admin\MarketplacesView.xaml;Admin\ProductsView.xaml;Admin\ReviewsView.xaml;Admin\UsersView.xaml;Authentication\Login.xaml;Authentication\Register.xaml;CategoriesDisplayPage.xaml;HomePage.xaml;MainHomeWindow.xaml;ProductPages\CompareProductsView.xaml;ProductPages\FavouriteProductsView.xaml;ProductPages\ProductPage.xaml;ProductPages\ProductReviewsPage.xaml;ProductPages\ProductsByCategoryPage.xaml;ProductPages\ProductsByNameSearchPage.xaml;
 
 True

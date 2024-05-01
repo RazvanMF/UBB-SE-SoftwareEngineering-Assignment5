@@ -6,36 +6,36 @@ namespace NamespaceGPT.Business.Services
 {
     public class MarketplaceService : IMarketplaceService
     {
-        private readonly IMarketplaceRepository marketplacerepository;
+        private readonly IMarketplaceRepository marketplaceRepository;
 
-        public MarketplaceService(IMarketplaceRepository marketplacerepository)
+        public MarketplaceService(IMarketplaceRepository marketplaceRepository)
         {
-            this.marketplacerepository = marketplacerepository ?? throw new ArgumentNullException(nameof(marketplacerepository));
+            this.marketplaceRepository = marketplaceRepository ?? throw new ArgumentNullException(nameof(marketplaceRepository));
         }
 
         public int AddMarketplace(Marketplace marketplace)
         {
-           return marketplacerepository.AddMarketplace(marketplace);
+           return marketplaceRepository.AddMarketplace(marketplace);
         }
 
         public bool DeleteMarketplace(int id)
         {
-            return marketplacerepository.DeleteMarketplace(id);
+            return marketplaceRepository.DeleteMarketplace(id);
         }
 
         public IEnumerable<Marketplace> GetAllMarketplaces()
         {
-            return marketplacerepository.GetAllMarketplaces();
+            return marketplaceRepository.GetAllMarketplaces();
         }
 
         public Marketplace? GetMarketplace(int id)
         {
-            return marketplacerepository.GetMarketplace(id);
+            return marketplaceRepository.GetMarketplace(id);
         }
 
         public bool UpdateMarketplace(int id, Marketplace marketplace)
         {
-            return marketplacerepository.UpdateMarketplace(id, marketplace);
+            return marketplaceRepository.UpdateMarketplace(id, marketplace);
         }
     }
 }
