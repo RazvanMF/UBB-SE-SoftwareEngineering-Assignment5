@@ -5,4 +5,4 @@ The purpose of this repository is to unify each and every test made by the team 
 
 The specific parts for everyone can be found in the Parts-Backup.txt
 
-Imre summonned me at 11AM Friday, so the deadline is Thursday Night.
+Deadline unknown as of friday, so most likely we'll meet again in week 12, but would rather have everything done before the start of week 11.
