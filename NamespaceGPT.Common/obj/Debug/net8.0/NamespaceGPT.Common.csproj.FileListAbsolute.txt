@@ -21,3 +21,15 @@ C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Co
 C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\refint\NamespaceGPT.Common.dll
 C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.pdb
 C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Common\obj\Debug\net8.0\ref\NamespaceGPT.Common.dll
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Common\bin\Debug\net8.0\NamespaceGPT.Common.deps.json
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Common\bin\Debug\net8.0\NamespaceGPT.Common.dll
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Common\bin\Debug\net8.0\NamespaceGPT.Common.pdb
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.AssemblyInfo.cs
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.sourcelink.json
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.dll
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Common\obj\Debug\net8.0\refint\NamespaceGPT.Common.dll
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Common\obj\Debug\net8.0\NamespaceGPT.Common.pdb
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Common\obj\Debug\net8.0\ref\NamespaceGPT.Common.dll

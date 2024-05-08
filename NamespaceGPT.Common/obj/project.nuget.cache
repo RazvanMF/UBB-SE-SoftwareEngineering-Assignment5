@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wE5hBVNd4Qp1F/MbSkEh3HkcM7yJKHgAOT43NmOdsWPUoO0vV5ZSHcYYvOmOVOINVfDfHGuRLu5jF80748e8yw==",
+  "dgSpecHash": "3yKc/AIM7m9jRuJJof186Gk+4KZu2PcA16v/m8z/8i0qj7o6WOj96lxQ2cjaHsuzzYVMsqM0PWoMoSGrHeMD1A==",
   "success": true,
-  "projectFilePath": "C:\\Razvan\\Projects\\Semester IV\\Software Engineering\\NamespaceGPT\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\UBB-SE-SoftwareEngineering-Assignment5\\NamespaceGPT.Common\\NamespaceGPT.Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Razvan\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+    "C:\\Users\\Dell\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],
   "logs": []
 }

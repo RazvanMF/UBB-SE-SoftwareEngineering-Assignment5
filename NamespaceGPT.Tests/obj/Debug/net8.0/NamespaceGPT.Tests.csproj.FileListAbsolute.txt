@@ -333,3 +333,13 @@ C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Te
 C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Tests\obj\Debug\net8.0\NamespaceGPT.Tests.pdb
 C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Tests\obj\Debug\net8.0\NamespaceGPT.Tests.genruntimeconfig.cache
 C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Tests\obj\Debug\net8.0\ref\NamespaceGPT.Tests.dll
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_NamespaceGPT.Tests
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Tests\obj\Debug\net8.0\NamespaceGPT.Tests.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Tests\obj\Debug\net8.0\NamespaceGPT.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Tests\obj\Debug\net8.0\NamespaceGPT.Tests.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Tests\obj\Debug\net8.0\NamespaceGPT.Tests.AssemblyInfo.cs
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Tests\obj\Debug\net8.0\NamespaceGPT.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Tests\obj\Debug\net8.0\NamespaceGPT.Tests.sourcelink.json
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Tests\obj\Debug\net8.0\NamespaceGPT.Tests.dll
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Tests\obj\Debug\net8.0\refint\NamespaceGPT.Tests.dll
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Tests\obj\Debug\net8.0\NamespaceGPT.Tests.pdb

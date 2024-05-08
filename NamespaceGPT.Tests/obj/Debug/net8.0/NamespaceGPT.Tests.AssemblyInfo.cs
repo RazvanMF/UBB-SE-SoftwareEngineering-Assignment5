@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NamespaceGPT.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6004cc98a78dfb98cf4407eb5a9872d26cf31b50")]
 [assembly: System.Reflection.AssemblyProductAttribute("NamespaceGPT.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NamespaceGPT.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

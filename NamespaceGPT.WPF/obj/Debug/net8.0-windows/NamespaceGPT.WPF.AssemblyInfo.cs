@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NamespaceGPT.WPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6004cc98a78dfb98cf4407eb5a9872d26cf31b50")]
 [assembly: System.Reflection.AssemblyProductAttribute("NamespaceGPT.WPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NamespaceGPT.WPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

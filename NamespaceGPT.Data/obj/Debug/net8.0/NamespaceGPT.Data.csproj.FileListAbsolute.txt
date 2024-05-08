@@ -31,3 +31,20 @@ C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Da
 C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\refint\NamespaceGPT.Data.dll
 C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.pdb
 C:\Razvan\Projects\Semester IV\Software Engineering\NamespaceGPT\NamespaceGPT.Data\obj\Debug\net8.0\ref\NamespaceGPT.Data.dll
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\bin\Debug\net8.0\appsettings.json
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\bin\Debug\net8.0\NamespaceGPT.Data.deps.json
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\bin\Debug\net8.0\NamespaceGPT.Data.dll
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\bin\Debug\net8.0\NamespaceGPT.Data.pdb
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\bin\Debug\net8.0\NamespaceGPT.Common.dll
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\bin\Debug\net8.0\NamespaceGPT.Common.pdb
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.AssemblyInfo.cs
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.sourcelink.json
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\obj\Debug\net8.0\Namespac.8803256D.Up2Date
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.dll
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\obj\Debug\net8.0\refint\NamespaceGPT.Data.dll
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\obj\Debug\net8.0\NamespaceGPT.Data.pdb
+C:\Users\Dell\source\repos\UBB-SE-SoftwareEngineering-Assignment5\NamespaceGPT.Data\obj\Debug\net8.0\ref\NamespaceGPT.Data.dll
